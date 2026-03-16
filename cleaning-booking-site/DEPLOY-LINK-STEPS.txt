@@ -1,0 +1,28 @@
+FASTEST WAY TO GET A PUBLIC LINK
+
+OPTION 1 — NETLIFY (EASIEST)
+1. Go to Netlify Drop in your browser.
+2. Unzip cleaning-booking-site.zip on your device.
+3. Drag the folder that contains index.html into Netlify Drop.
+4. Netlify will publish it and give you a public https://...netlify.app link.
+5. Copy that link into your Instagram bio, Facebook page, TikTok profile, WhatsApp, or anywhere else.
+
+OPTIONAL CUSTOM DOMAIN
+- If you want your own branded link like www.yourcleaningbusiness.com, add a custom domain inside Netlify after publishing.
+
+OPTION 2 — VERCEL
+1. Create a Vercel account.
+2. Create a new project and upload/import the site.
+3. Vercel will give you a public https://...vercel.app link.
+4. You can later add your own custom domain.
+
+OPTION 3 — GITHUB PAGES
+1. Create a GitHub repository.
+2. Upload index.html to the repository.
+3. Enable GitHub Pages in repository settings.
+4. GitHub will give you a public link.
+
+IMPORTANT
+- The current site works as a static website.
+- For real customer booking notifications, connect the form to a service like Formspree or FormSubmit, then republish.
+- If you want, this same site can also be turned into an installable iPhone/Android home-screen web app later.
